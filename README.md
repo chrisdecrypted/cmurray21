@@ -8,4 +8,4 @@ I spend most of my time writing or learning about software. When I'm not doing t
 ## Note about GitHub Map
 You may notice some white space on the heat map. Do not panic. 
 
-This reflects time that I was working 2 full-time jobs and attending college. FYI I was writing software, but not commiting repos. 
+This reflects time that I was working 2 full-time jobs and attending college. TL/DR: I was writing software, but not commiting repos. 
