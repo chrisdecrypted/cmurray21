@@ -5,7 +5,7 @@ I'm Chris and I'm a software developer. I am also a content creator for https://
 I spend most of my time learning about software. Outside of computers, I enjoy podcasts, watching horror movies, and playing guitar. 
 
 ## Social/Links
-Portfolio: https://wwww.christopher-murray.com
+Portfolio: https://www.christopher-murray.com
 
 LinkedIn: https://www.linkedin.com/in/christophercmurray/
 
