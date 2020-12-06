@@ -10,6 +10,3 @@ Portfolio: https://www.christopher-murray.com
 LinkedIn: https://www.linkedin.com/in/christophercmurray/
 
 Resume (Google Drive): https://drive.google.com/file/d/1a1lfk70F6lYm3ohBhexyVIOCxdhlwozE/view
-
-## Heat Map
-I am always learning and working on new things, but not necessarily on GitHub. 
